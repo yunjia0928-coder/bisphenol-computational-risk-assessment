@@ -106,7 +106,7 @@ My contribution is reported in the published article under the CRediT authorship
 
 ## Related Publication
 
-Chiu, C.-H., Sun, S.-H., Yao, Y.-J., Chuang, Y., Lee, Y.-T., & Lin, Y.-J. (2025). **Concentrations, composition profiles, and in vitro–in silico-based mixture risk assessment of bisphenol A and its analogs in plant-based foods.** *Environment International, 195*, 109229.
+Chiu, C.-H., Sun, S.-H., Yao, Y.-J., Chuang, Y., Lee, Y.-T., & Lin, Y.-J. (2025). Concentrations, composition profiles, and _in vitro_–_in silico_-based mixture risk assessment of bisphenol A and its analogs in plant-based foods. *Environment International, 195*, 109229. 
 
 https://doi.org/10.1016/j.envint.2024.109229
 
@@ -114,7 +114,7 @@ https://doi.org/10.1016/j.envint.2024.109229
 
 Pearce, R. G., Setzer, R. W., Strope, C. L., Sipes, N. S., & Wambaugh, J. F. (2017). **httk: R package for high-throughput toxicokinetics.** *Journal of Statistical Software, 79*(4), 1–26.
 
-Lin, Y.-J., & Lin, Z. (2020). **In vitro-in silico-based probabilistic risk assessment of combined exposure to bisphenol A and its analogues by integrating ToxCast high-throughput in vitro assays with in vitro to in vivo extrapolation (IVIVE) via physiologically based pharmacokinetic (PBPK) modeling.** *Journal of Hazardous Materials, 399*, 122856.
+Lin, Y.-J., & Lin, Z. (2020). **In vitro-in silico-based probabilistic risk assessment of combined exposure to bisphenol A and its analogues by integrating ToxCast high-throughput in vitro assays with _in vitro_ to _in vivo_ extrapolation (IVIVE) via physiologically based pharmacokinetic (PBPK) modeling.** *Journal of Hazardous Materials, 399*, 122856.
 
 ## Data Availability
 
@@ -127,7 +127,7 @@ This repository focuses on the computational methodology and does not redistribu
 - **ToxCast / U.S. EPA CompTox**
 - **High-throughput toxicokinetics (HTTK)**
 - **Physiologically based toxicokinetic (PBTK) modeling**
-- **In vitro-to-in vivo extrapolation (IVIVE)**
+- **_In vitro_-to-_in vivo_ extrapolation (IVIVE)**
 - **Monte Carlo simulation**
 - **Probabilistic risk assessment**
 - **Mixture risk assessment**
