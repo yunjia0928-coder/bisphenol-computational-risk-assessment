@@ -1,6 +1,6 @@
 # Bisphenol Computational Risk Assessment
 
-Computational exposure and mixture risk assessment of bisphenols using R, ToxCast, high-throughput toxicokinetics (HTTK), in vitro-to-in vivo extrapolation (IVIVE), and probabilistic modeling.
+Computational exposure and mixture risk assessment of bisphenols using R, ToxCast, high-throughput toxicokinetics (HTTK), _in vitro_-to-_in vivo_ extrapolation (IVIVE), and probabilistic modeling.
 
 This repository presents the computational risk-assessment component of a peer-reviewed study on bisphenol A (BPA) and its structural analogs in plant-based foods. The study integrated dietary exposure data with high-throughput in vitro bioactivity and toxicokinetic modeling to derive human-equivalent points of departure and characterize potential mixture risks.
 
@@ -15,10 +15,10 @@ The computational workflow was used to:
 1. integrate dietary exposure estimates across population groups;
 2. identify estrogen-receptor-related ToxCast assays and bioactive concentrations;
 3. simulate population toxicokinetics using the `httk` R package;
-4. perform reverse dosimetry to convert in vitro concentrations into oral equivalent doses;
+4. perform reverse dosimetry to convert _in vitro_ concentrations into oral equivalent doses;
 5. derive human-equivalent points of departure (PODs);
-6. compare in vitro–in silico PODs with animal-derived PODs; and
-7. characterize individual and mixture risks using margin-of-exposure approaches and probabilistic modeling.
+6. compare _in vitro_–_in silico_ PODs with animal-derived PODs; and
+7. characterize individual and mixture risks using margin-of-exposure (MOE) approaches and probabilistic modeling.
 
 ## Computational Workflow
 
