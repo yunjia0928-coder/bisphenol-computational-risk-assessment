@@ -1,5 +1,3 @@
-#install.packages("C:/Users/user/Downloads/httk_2.3.1.tar.gz", repos = NULL, type = "source")
-
 ## Supplemental Material for "Concentrations, Composition Profiles, 
 ## and In Vitro–In Silico-Based Mixture Risk Assessment 
 ## of Bisphenol A and its Analogs in Plant-Based Foods"
